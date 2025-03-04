@@ -24,8 +24,10 @@ class Hamburger {
         void Setlettuce(int lettuce){
             this->lettuce = lettuce;
         }
-    
-};
+        void print(){
+            cout << "bun =" << this->bun << endl;
+        }
+}; 
 
 int main(){
 
@@ -38,5 +40,6 @@ class2_variable.SetBun(1);
 class2_variable.Setpatty(2);
 class2_variable.Setcheese(3);
 class2_variable.Setlettuce(4);
+class1_variable.print();
 
 }
