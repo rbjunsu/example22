@@ -41,5 +41,7 @@ class2_variable.Setpatty(2);
 class2_variable.Setcheese(3);
 class2_variable.Setlettuce(4);
 class1_variable.print();
+class1_variable.print();
+class1_variable.print();
 
 }
