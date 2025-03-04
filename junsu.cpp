@@ -25,7 +25,7 @@ class Hamburger {
             this->lettuce = lettuce;
         }
         void print(){
-            cout << "master branch" << endl;
+            cout << "master branch!" << endl;
         }
 }; 
 
