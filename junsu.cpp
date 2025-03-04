@@ -43,5 +43,11 @@ class2_variable.Setlettuce(4);
 class1_variable.print();
 class1_variable.print();
 class1_variable.print();
+class1_variable.print();
+class1_variable.print();
+class1_variable.print();
+class1_variable.print();
+class1_variable.print();
+class1_variable.print();
 
 }
