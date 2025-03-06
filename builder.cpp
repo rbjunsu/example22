@@ -2,8 +2,6 @@
 using namespace std;
 
 class fruits {
-
-
 //==================빌더 패턴==================//
 
 
@@ -50,8 +48,6 @@ class fruits {
     //         cout << "watermelon = " << this->watermelon << endl;
     //         cout << "banana = " << this->banana << endl;
     //     }
-//==============================================//
-
 };
 
 int main(){
@@ -74,6 +70,4 @@ int main(){
 // fruits f_class2 = fruits(10,20,30);
 // f_class2.print();
 // f_class1.print();
-//==============================================//
-
 }
